@@ -14,7 +14,6 @@ object Playground extends App {
   val num:Int = 12
 
   println(num)
-s
 
   val name:String = "Sukhdev"
 
