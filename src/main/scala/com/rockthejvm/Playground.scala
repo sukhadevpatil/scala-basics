@@ -10,4 +10,17 @@ package com.rockthejvm
   */
 object Playground extends App {
   println("I love Scala!")
+
+  val num:Int = 12
+
+  println(num)
+s
+
+  val name:String = "Sukhdev"
+
+  println(name)
+
+  val age = 32
+
+  print(age)
 }
